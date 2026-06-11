@@ -248,12 +248,6 @@ pip install psutil
 pip install pillow
 ```
 
-or
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 # 🤖 Download AI Model
